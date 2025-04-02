@@ -1,3 +1,4 @@
+# Simple calculator program to include additional operations: subtraction, multiply, modulus (%), exponentiation (), and floor division (//).
 def calculator():
     print("Select operation:")
     print("1. Addition (+)")
