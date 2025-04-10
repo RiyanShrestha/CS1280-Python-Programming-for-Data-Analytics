@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load the dataset
-df = pd.read_csv("6Med.csv")
+df = pd.read_csv("6Mcd.csv")
 
 # Compute correlation matrix for numeric columns
 corr_matrix = df.corr(numeric_only=True)
