@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-df = pd.read_csv("6Med.csv")
+df = pd.read_csv("6Mcd.csv")
 
 # View column names to decide which variables to plot
 print(df.columns)
