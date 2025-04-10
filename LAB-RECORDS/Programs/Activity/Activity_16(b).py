@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-df = pd.read_csv("6Med.csv")
+df = pd.read_csv("6Mcd.csv")
 
 # Scatter plot using Matplotlib
 plt.scatter(df['Age'], df['BP'], color='blue')
